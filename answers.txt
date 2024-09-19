@@ -1,0 +1,4 @@
+Q1: Why might be consider using git?
+
+Answer: Git is extremely useful for working in teams. Multiple users can work on the same project in their own 
+branch and then push their changes once they are ready.
