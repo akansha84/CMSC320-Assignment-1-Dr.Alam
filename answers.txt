@@ -2,3 +2,8 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 
 Answer: Data science could be applied to marketing. Companies rely on big data to determine how to design their ads to appeal
 to certain demographics and boost their sales.
+
+Q1: Why might be consider using git?
+
+Answer: Git is extremely useful for working in teams. Multiple users can work on the same project in their own 
+branch and then push their changes once they are ready.
